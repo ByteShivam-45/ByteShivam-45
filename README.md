@@ -1,16 +1,69 @@
-## Hi there 👋
+# Hi, I'm Shivam Bhardwaj 👋
 
-<!--
-**ByteShivam-45/ByteShivam-45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Undergraduate at Accurate Institute of Management and Technology
 
-Here are some ideas to get you started:
+💻 Passionate about Python Development, Computer Vision, and Artificial Intelligence
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Building real-time applications using OpenCV, MediaPipe, Flask, and FastAPI
+
+---
+
+## 🔧 Tech Stack
+
+**Languages**
+
+* Python
+* Java
+* C
+* SQL
+* JavaScript
+
+**Frameworks & Technologies**
+
+* React
+* Flask
+* FastAPI
+
+**Libraries**
+
+* OpenCV
+* MediaPipe
+* Pandas
+* NumPy
+* Matplotlib
+
+**Developer Tools**
+
+* Git
+* Docker
+* VS Code
+* PyCharm
+* Google Cloud Platform
+
+---
+
+## 🚀 Featured Projects
+
+### PoseFit AI
+
+Real-time exercise form analyzer using OpenCV and MediaPipe to detect body posture and evaluate exercise techniques.
+
+### Student Behaviour Analyzer
+
+Python-based analytics tool that processes student performance data and generates meaningful visual insights.
+
+---
+
+## 🌱 Currently Learning
+
+* Data Structures & Algorithms
+* Backend Development
+* Computer Vision Applications
+* System Design Fundamentals
+
+---
+
+## 📫 Connect With Me
+
+* LinkedIn: https://www.linkedin.com/in/shivam-bhardwaj19?utm_source=share_via&utm_content=profile&utm_medium=member_android
+* Email: [shivambhardwaj4717@gmail.com](mailto:shivambhardwaj4717@gmail.com)

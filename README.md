@@ -1,3 +1,4 @@
+<img src="./Banner_shivam.jpeg" alt="Shivam Bhardwaj Banner" width="100%">
 # Hi, I'm Shivam Bhardwaj 👋
 
 🎓 Computer Science Undergraduate at Accurate Institute of Management and Technology

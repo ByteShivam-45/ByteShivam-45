@@ -66,5 +66,5 @@ Python-based analytics tool that processes student performance data and generate
 
 ## 📫 Connect With Me
 
-* LinkedIn: https://www.linkedin.com/in/shivam-bhardwaj19?utm_source=share_via&utm_content=profile&utm_medium=member_android
+* LinkedIn: https://www.linkedin.com/in/shivam-bhardwaj19
 * Email: [shivambhardwaj4717@gmail.com](mailto:shivambhardwaj4717@gmail.com)

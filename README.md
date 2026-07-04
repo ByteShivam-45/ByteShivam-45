@@ -1,8 +1,11 @@
 <img src="./Banner_shivam.jpeg" alt="Shivam Bhardwaj Banner" width="100%">
 
+
 <a href="https://github.com/ByteShivam-45">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
   </a>
+
+
 # Hi, I'm Shivam Bhardwaj 👋
 
 🎓 Computer Science Undergraduate at Accurate Institute of Management and Technology

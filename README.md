@@ -5,9 +5,7 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
   </a>
 
-<a href="shivambhardwajtech19@gmail.com">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
-  </a>
+
 
 
 # Hi, I'm Shivam Bhardwaj 👋

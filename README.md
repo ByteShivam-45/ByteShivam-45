@@ -9,8 +9,17 @@
   <img src="https://komarev.com/ghpvc/?username=ByteShivam-45&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 </p>
 
-[![Email](https://img.shields.io/badge/Email-shivambhardwajtech19%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shivambhardwajtech19@gmail.com)
-
+<p align="center">
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="YOUR_PORTFOLIO_URL">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="mailto:shivambhardwajtech19@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 
 # Hi, I'm Shivam Bhardwaj 👋

@@ -84,12 +84,13 @@ Python-based analytics tool that processes student performance data and generate
 
 ## 📫 Connect With Me
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/shivam-bhardwaj19">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:shivambhardwajtech19@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-</p>
+<a href="https://www.linkedin.com/in/shivam-bhardwaj19">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+&nbsp;&nbsp;&nbsp;
+
+<a href="mailto:shivambhardwajtech19@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 

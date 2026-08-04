@@ -12,7 +12,6 @@
 💻 Passionate about Python Development, Computer Vision, and Artificial Intelligence
 
 🚀 Building real-time applications using OpenCV, MediaPipe, Flask, and FastAPI
-
 ## 🛠️ Tech Stack
 
 <br>
@@ -22,185 +21,89 @@
 
 <tr>
 <td align="center" width="25%">
-<b>Python</b><br><br>
-<img height="60px" src="https://skillicons.dev/icons?i=python"/>
+<span><b><center>Python</center></b></span>
+<img height="65px" src="https://img.icons8.com/color/96/python.png">
 </td>
 
 <td align="center" width="25%">
-<b>C</b><br><br>
-<img height="60px" src="https://skillicons.dev/icons?i=c"/>
+<span><b><center>C</center></b></span>
+<img height="65px" src="https://img.icons8.com/color/96/c-programming.png">
 </td>
 
 <td align="center" width="25%">
-<b>SQL</b><br><br>
-<img height="60px" src="https://skillicons.dev/icons?i=mysql"/>
+<span><b><center>SQL</center></b></span>
+<img height="65px" src="https://img.icons8.com/external-soft-fill-juicy-fish/60/external-sql-coding-and-development-soft-fill-soft-fill-juicy-fish.png">
 </td>
 
 <td align="center" width="25%">
-<b>JavaScript</b><br><br>
-<img height="60px" src="https://skillicons.dev/icons?i=js"/>
+<span><b><center>JavaScript</center></b></span>
+<img height="65px" src="https://img.icons8.com/color/96/javascript.png">
 </td>
 </tr>
 
 <tr>
-<td align="center">
-<b>React</b><br><br>
-<img height="60px" src="https://skillicons.dev/icons?i=react"/>
-</td>
-
-<td align="center">
-<b>Flask</b><br><br>
-<img height="60px" src="https://skillicons.dev/icons?i=flask"/>
-</td>
-
-<td align="center">
-<b>FastAPI</b><br><br>
-<img height="60px" src="https://skillicons.dev/icons?i=fastapi"/>
-</td>
-
-<td align="center">
-<b>OpenCV</b><br><br>
-<img height="60px" src="https://skillicons.dev/icons?i=opencv"/>
-</td>
-</tr>
-
-<tr>
-<td align="center">
-<b>MediaPipe</b><br><br>
-<img height="60px" src="https://img.icons8.com/color/96/google-logo.png"/>
-</td>
-
-<td align="center">
-<b>NumPy</b><br><br>
-<img height="60px" src="https://skillicons.dev/icons?i=numpy"/>
-</td>
-
-<td align="center">
-<b>Pandas</b><br><br>
-<img height="60px" src="https://skillicons.dev/icons?i=pandas"/>
-</td>
-
-<td align="center">
-<b>Git</b><br><br>
-<img height="60px" src="https://skillicons.dev/icons?i=git"/>
-</td>
-</tr>
-
-<tr>
-<td align="center">
-<b>GitHub</b><br><br>
-<img height="60px" src="https://skillicons.dev/icons?i=github"/>
-</td>
-
-<td align="center">
-<b>VS Code</b><br><br>
-<img height="60px" src="https://skillicons.dev/icons?i=vscode"/>
-</td>
-
-<td align="center">
-<b>Vercel</b><br><br>
-<img height="60px" src="https://skillicons.dev/icons?i=vercel"/>
-</td>
-
-<td align="center">
-<b>Cursor</b><br><br>
-<img height="60px" src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/cursor.png"/>
-</td>
-</tr>
-
-</tbody>
-</table>## 🛠️ Tech Stack
-
-<br>
-
-<table>
-<tbody>
-
-<tr>
 <td align="center" width="25%">
-<b>Python</b><br><br>
-<img height="60px" src="https://skillicons.dev/icons?i=python"/>
+<span><b><center>React</center></b></span>
+<img height="65px" src="https://img.icons8.com/ultraviolet/80/react.png">
 </td>
 
 <td align="center" width="25%">
-<b>C</b><br><br>
-<img height="60px" src="https://skillicons.dev/icons?i=c"/>
+<span><b><center>Flask</center></b></span>
+<img height="65px" src="https://img.icons8.com/ios-filled/100/flask.png">
 </td>
 
 <td align="center" width="25%">
-<b>SQL</b><br><br>
-<img height="60px" src="https://skillicons.dev/icons?i=mysql"/>
+<span><b><center>FastAPI</center></b></span>
+<img height="65px" src="https://cdn.simpleicons.org/fastapi/009688">
 </td>
 
 <td align="center" width="25%">
-<b>JavaScript</b><br><br>
-<img height="60px" src="https://skillicons.dev/icons?i=js"/>
+<span><b><center>OpenCV</center></b></span>
+<img height="65px" src="https://cdn.simpleicons.org/opencv/5C3EE8">
 </td>
 </tr>
 
 <tr>
-<td align="center">
-<b>React</b><br><br>
-<img height="60px" src="https://skillicons.dev/icons?i=react"/>
+<td align="center" width="25%">
+<span><b><center>MediaPipe</center></b></span>
+<img height="65px" src="https://cdn.simpleicons.org/google/4285F4">
 </td>
 
-<td align="center">
-<b>Flask</b><br><br>
-<img height="60px" src="https://skillicons.dev/icons?i=flask"/>
+<td align="center" width="25%">
+<span><b><center>Pandas</center></b></span>
+<img height="65px" src="https://cdn.simpleicons.org/pandas/150458">
 </td>
 
-<td align="center">
-<b>FastAPI</b><br><br>
-<img height="60px" src="https://skillicons.dev/icons?i=fastapi"/>
+<td align="center" width="25%">
+<span><b><center>NumPy</center></b></span>
+<img height="65px" src="https://cdn.simpleicons.org/numpy/013243">
 </td>
 
-<td align="center">
-<b>OpenCV</b><br><br>
-<img height="60px" src="https://skillicons.dev/icons?i=opencv"/>
-</td>
-</tr>
-
-<tr>
-<td align="center">
-<b>MediaPipe</b><br><br>
-<img height="60px" src="https://img.icons8.com/color/96/google-logo.png"/>
-</td>
-
-<td align="center">
-<b>NumPy</b><br><br>
-<img height="60px" src="https://skillicons.dev/icons?i=numpy"/>
-</td>
-
-<td align="center">
-<b>Pandas</b><br><br>
-<img height="60px" src="https://skillicons.dev/icons?i=pandas"/>
-</td>
-
-<td align="center">
-<b>Git</b><br><br>
-<img height="60px" src="https://skillicons.dev/icons?i=git"/>
+<td align="center" width="25%">
+<span><b><center>Git</center></b></span>
+<img height="65px" src="https://img.icons8.com/color/96/git.png">
 </td>
 </tr>
 
 <tr>
-<td align="center">
-<b>GitHub</b><br><br>
-<img height="60px" src="https://skillicons.dev/icons?i=github"/>
+<td align="center" width="25%">
+<span><b><center>GitHub</center></b></span>
+<img height="65px" src="https://img.icons8.com/glyph-neue/96/github.png">
 </td>
 
-<td align="center">
-<b>VS Code</b><br><br>
-<img height="60px" src="https://skillicons.dev/icons?i=vscode"/>
+<td align="center" width="25%">
+<span><b><center>Vercel</center></b></span>
+<img height="65px" src="https://cdn.simpleicons.org/vercel/000000">
 </td>
 
-<td align="center">
-<b>Vercel</b><br><br>
-<img height="60px" src="https://skillicons.dev/icons?i=vercel"/>
+<td align="center" width="25%">
+<span><b><center>VS Code</center></b></span>
+<img height="65px" src="https://img.icons8.com/color/96/visual-studio-code-2019.png">
 </td>
 
-<td align="center">
-<b>Cursor</b><br><br>
-<img height="60px" src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/cursor.png"/>
+<td align="center" width="25%">
+<span><b><center>Cursor</center></b></span>
+<img height="65px" src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/cursor.png">
 </td>
 </tr>
 

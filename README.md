@@ -82,15 +82,50 @@ Python-based analytics tool that processes student performance data and generate
 
 ---
 
-## 📫 Connect With Me
+---
 
-<a href="https://www.linkedin.com/in/shivam-bhardwaj19">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<h2>🌐 Connect With Me</h2>
+
+<table>
+<tr>
+
+<td align="center">
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/">
+<img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
 </a>
+</td>
 
-&nbsp;&nbsp;&nbsp;
-
-<a href="mailto:shivambhardwajtech19@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<td align="center">
+<a href="https://byteshivam-45.github.io/">
+<img src="https://img.icons8.com/fluency/96/domain.png" width="45"/>
 </a>
+</td>
 
+<td align="center">
+<a href="mailto:shivambhardwaj4717@gmail.com">
+<img src="https://img.icons8.com/color/96/gmail-new.png" width="45"/>
+</a>
+</td>
+
+<td align="center">
+<a href="https://github.com/ByteShivam-45">
+<img src="https://skillicons.dev/icons?i=github" width="45"/>
+</a>
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center"><b>LinkedIn</b></td>
+<td align="center"><b>Portfolio</b></td>
+<td align="center"><b>Email</b></td>
+<td align="center"><b>GitHub</b></td>
+
+</tr>
+
+</table>
+
+---
+
+⭐ *Always learning, always building, and always striving to create impactful software.*

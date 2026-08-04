@@ -13,45 +13,199 @@
 
 🚀 Building real-time applications using OpenCV, MediaPipe, Flask, and FastAPI
 
----## 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-### 💻 Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=python,c,js" />
-</p>
+<br>
 
----
+<table>
+<tbody>
 
-### ⚛️ Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=react" />
-</p>
+<tr>
+<td align="center" width="25%">
+<b>Python</b><br><br>
+<img height="60px" src="https://skillicons.dev/icons?i=python"/>
+</td>
 
----
+<td align="center" width="25%">
+<b>C</b><br><br>
+<img height="60px" src="https://skillicons.dev/icons?i=c"/>
+</td>
 
-### ⚙️ Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=flask,fastapi" />
-</p>
+<td align="center" width="25%">
+<b>SQL</b><br><br>
+<img height="60px" src="https://skillicons.dev/icons?i=mysql"/>
+</td>
 
----
+<td align="center" width="25%">
+<b>JavaScript</b><br><br>
+<img height="60px" src="https://skillicons.dev/icons?i=js"/>
+</td>
+</tr>
 
-### 🤖 AI / Computer Vision
-<p>
-  <img src="https://skillicons.dev/icons?i=opencv" />
-  <img src="https://img.shields.io/badge/MediaPipe-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-</p>
+<tr>
+<td align="center">
+<b>React</b><br><br>
+<img height="60px" src="https://skillicons.dev/icons?i=react"/>
+</td>
 
----
+<td align="center">
+<b>Flask</b><br><br>
+<img height="60px" src="https://skillicons.dev/icons?i=flask"/>
+</td>
 
-### 🚀 Tools & Deployment
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" />
-  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" />
-</p>
+<td align="center">
+<b>FastAPI</b><br><br>
+<img height="60px" src="https://skillicons.dev/icons?i=fastapi"/>
+</td>
+
+<td align="center">
+<b>OpenCV</b><br><br>
+<img height="60px" src="https://skillicons.dev/icons?i=opencv"/>
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<b>MediaPipe</b><br><br>
+<img height="60px" src="https://img.icons8.com/color/96/google-logo.png"/>
+</td>
+
+<td align="center">
+<b>NumPy</b><br><br>
+<img height="60px" src="https://skillicons.dev/icons?i=numpy"/>
+</td>
+
+<td align="center">
+<b>Pandas</b><br><br>
+<img height="60px" src="https://skillicons.dev/icons?i=pandas"/>
+</td>
+
+<td align="center">
+<b>Git</b><br><br>
+<img height="60px" src="https://skillicons.dev/icons?i=git"/>
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<b>GitHub</b><br><br>
+<img height="60px" src="https://skillicons.dev/icons?i=github"/>
+</td>
+
+<td align="center">
+<b>VS Code</b><br><br>
+<img height="60px" src="https://skillicons.dev/icons?i=vscode"/>
+</td>
+
+<td align="center">
+<b>Vercel</b><br><br>
+<img height="60px" src="https://skillicons.dev/icons?i=vercel"/>
+</td>
+
+<td align="center">
+<b>Cursor</b><br><br>
+<img height="60px" src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/cursor.png"/>
+</td>
+</tr>
+
+</tbody>
+</table>## 🛠️ Tech Stack
+
+<br>
+
+<table>
+<tbody>
+
+<tr>
+<td align="center" width="25%">
+<b>Python</b><br><br>
+<img height="60px" src="https://skillicons.dev/icons?i=python"/>
+</td>
+
+<td align="center" width="25%">
+<b>C</b><br><br>
+<img height="60px" src="https://skillicons.dev/icons?i=c"/>
+</td>
+
+<td align="center" width="25%">
+<b>SQL</b><br><br>
+<img height="60px" src="https://skillicons.dev/icons?i=mysql"/>
+</td>
+
+<td align="center" width="25%">
+<b>JavaScript</b><br><br>
+<img height="60px" src="https://skillicons.dev/icons?i=js"/>
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<b>React</b><br><br>
+<img height="60px" src="https://skillicons.dev/icons?i=react"/>
+</td>
+
+<td align="center">
+<b>Flask</b><br><br>
+<img height="60px" src="https://skillicons.dev/icons?i=flask"/>
+</td>
+
+<td align="center">
+<b>FastAPI</b><br><br>
+<img height="60px" src="https://skillicons.dev/icons?i=fastapi"/>
+</td>
+
+<td align="center">
+<b>OpenCV</b><br><br>
+<img height="60px" src="https://skillicons.dev/icons?i=opencv"/>
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<b>MediaPipe</b><br><br>
+<img height="60px" src="https://img.icons8.com/color/96/google-logo.png"/>
+</td>
+
+<td align="center">
+<b>NumPy</b><br><br>
+<img height="60px" src="https://skillicons.dev/icons?i=numpy"/>
+</td>
+
+<td align="center">
+<b>Pandas</b><br><br>
+<img height="60px" src="https://skillicons.dev/icons?i=pandas"/>
+</td>
+
+<td align="center">
+<b>Git</b><br><br>
+<img height="60px" src="https://skillicons.dev/icons?i=git"/>
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<b>GitHub</b><br><br>
+<img height="60px" src="https://skillicons.dev/icons?i=github"/>
+</td>
+
+<td align="center">
+<b>VS Code</b><br><br>
+<img height="60px" src="https://skillicons.dev/icons?i=vscode"/>
+</td>
+
+<td align="center">
+<b>Vercel</b><br><br>
+<img height="60px" src="https://skillicons.dev/icons?i=vercel"/>
+</td>
+
+<td align="center">
+<b>Cursor</b><br><br>
+<img height="60px" src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/cursor.png"/>
+</td>
+</tr>
+
+</tbody>
+</table>
 
 ## 🚀 Featured Projects
 

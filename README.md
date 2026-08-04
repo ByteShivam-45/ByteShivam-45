@@ -14,36 +14,103 @@
 🚀 Building real-time applications using OpenCV, MediaPipe, Flask, and FastAPI
 
 ---
-
 ## 🛠️ Tech Stack
 
-### 💻 Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<br>
 
-### 🚀 Frameworks & Technologies
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+<table>
+<tbody>
 
-### 📚 Libraries
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-FF6F00?style=for-the-badge&logo=google&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
+<tr>
+<td align="center" width="25%">
+<span><b><center>Python</center></b></span>
+<img height="65px" src="https://img.icons8.com/color/96/python.png">
+</td>
 
+<td align="center" width="25%">
+<span><b><center>C</center></b></span>
+<img height="65px" src="https://img.icons8.com/color/96/c-programming.png">
+</td>
 
+<td align="center" width="25%">
+<span><b><center>SQL</center></b></span>
+<img height="65px" src="https://img.icons8.com/external-soft-fill-juicy-fish/60/external-sql-coding-and-development-soft-fill-soft-fill-juicy-fish.png">
+</td>
 
+<td align="center" width="25%">
+<span><b><center>JavaScript</center></b></span>
+<img height="65px" src="https://img.icons8.com/color/96/javascript.png">
+</td>
+</tr>
 
-### 🛠️ Developer Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
+<tr>
+<td align="center" width="25%">
+<span><b><center>React</center></b></span>
+<img height="65px" src="https://img.icons8.com/ultraviolet/80/react.png">
+</td>
+
+<td align="center" width="25%">
+<span><b><center>Flask</center></b></span>
+<img height="65px" src="https://img.icons8.com/ios-filled/100/flask.png">
+</td>
+
+<td align="center" width="25%">
+<span><b><center>FastAPI</center></b></span>
+<img height="65px" src="https://cdn.simpleicons.org/fastapi/009688">
+</td>
+
+<td align="center" width="25%">
+<span><b><center>OpenCV</center></b></span>
+<img height="65px" src="https://cdn.simpleicons.org/opencv/5C3EE8">
+</td>
+</tr>
+
+<tr>
+<td align="center" width="25%">
+<span><b><center>MediaPipe</center></b></span>
+<img height="65px" src="https://cdn.simpleicons.org/google/4285F4">
+</td>
+
+<td align="center" width="25%">
+<span><b><center>Pandas</center></b></span>
+<img height="65px" src="https://cdn.simpleicons.org/pandas/150458">
+</td>
+
+<td align="center" width="25%">
+<span><b><center>NumPy</center></b></span>
+<img height="65px" src="https://cdn.simpleicons.org/numpy/013243">
+</td>
+
+<td align="center" width="25%">
+<span><b><center>Git</center></b></span>
+<img height="65px" src="https://img.icons8.com/color/96/git.png">
+</td>
+</tr>
+
+<tr>
+<td align="center" width="25%">
+<span><b><center>GitHub</center></b></span>
+<img height="65px" src="https://img.icons8.com/glyph-neue/96/github.png">
+</td>
+
+<td align="center" width="25%">
+<span><b><center>Vercel</center></b></span>
+<img height="65px" src="https://cdn.simpleicons.org/vercel/000000">
+</td>
+
+<td align="center" width="25%">
+<span><b><center>VS Code</center></b></span>
+<img height="65px" src="https://img.icons8.com/color/96/visual-studio-code-2019.png">
+</td>
+
+<td align="center" width="25%">
+<span><b><center>Cursor</center></b></span>
+<img height="65px" src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/cursor.png">
+</td>
+</tr>
+
+</tbody>
+</table>
 
 
 ## 🚀 Featured Projects

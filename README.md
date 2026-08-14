@@ -6,6 +6,7 @@
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ByteShivam-45)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:shivambhardwajtech19@gmail.com)
+[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-7c8795?style=flat-square&logo=googlechrome&logoColor=white)](https://shivam-portfolio-plum-five.vercel.app/)
 
 🎓 Computer Science Undergraduate at Accurate Institute of Management and Technology
 

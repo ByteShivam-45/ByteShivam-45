@@ -146,7 +146,7 @@ Python-based analytics tool that processes student performance data and generate
 </td>
 
 <td align="center">
-<a href="https://byteshivam-45.github.io/">
+<a href="https://shivam-portfolio-plum-five.vercel.app/">
 <img src="https://img.icons8.com/fluency/96/domain.png" width="45"/>
 </a>
 </td>
